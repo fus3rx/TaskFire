@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "460113226618",
+    "firebase_url": "https://firetask-b087b.firebaseio.com",
+    "project_id": "firetask-b087b",
+    "storage_bucket": "firetask-b087b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460113226618:android:d14d5882d9274156",
+        "android_client_info": {
+          "package_name": "imaginers.com.taskfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460113226618-bk3i9jrf9t01fri5k715kgnhqh4blgn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyq2vaGnQx3thoSDxlnTsIMRXxQXtG3n0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
